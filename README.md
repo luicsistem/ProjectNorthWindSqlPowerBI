@@ -1,5 +1,5 @@
 # 📊 Northwind Analytics  
-Modelo Analítico en SQL Server & Power BI
+## Modelo Analítico en SQL Server & Power BI
 
 ## 📌 Descripción del proyecto
 
