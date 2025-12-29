@@ -8,7 +8,7 @@ Este proyecto implementa un modelo analítico profesional (Star Schema) a partir
 El objetivo es simular un proyecto real de Business Intelligence, separando claramente:
 - Capa de datos (SQL Server)
 - Capa semántica y visual (Power BI)
-
+![Top Paying Roles](docs/proyectoNorth.png)
 ---
 
 ## 🎯 Objetivos de negocio
