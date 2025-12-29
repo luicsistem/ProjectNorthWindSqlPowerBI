@@ -169,7 +169,6 @@ El modelo es consumido directamente en Power BI, donde se construyó:
 - Gráfico combinado: Ventas + MoM %
 - KPIs de crecimiento
 - Análisis por territorio, producto y cliente
-- Tooltips personalizados
 - Ejes temporales basados en la DimDate
 
 ---
