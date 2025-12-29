@@ -174,49 +174,6 @@ El modelo es consumido directamente en Power BI, donde se construyó:
 
 ---
 
-## 🗂️ Estructura del repositorio
-
-```text
-northwind-analytics/
-│
-├── sql/
-│   ├── facts/
-│   │   ├── vw_FactSales.sql
-│   │   └── vw_FactOrders.sql
-│   │
-│   ├── dimensions/
-│   │   ├── vw_DimCustomers.sql
-│   │   ├── vw_DimProducts.sql
-│   │   ├── vw_DimEmployees.sql
-│   │   ├── vw_DimShippers.sql
-│   │   └── vw_DimDate.sql
-│
-├── powerbi/
-│   └── Northwind_Dashboard.pbix
-│
-├── docs/
-│   └── Modelo_Estrella.png
-│
-└── README.md
-
-
-Conclusión
-
-Este proyecto demuestra:
-
-Dominio de SQL analítico
-
-Diseño de modelos estrella
-
-Comprensión del negocio
-
-Buenas prácticas de BI
-
-Capacidad de documentar y comunicar resultados
-
-Es un proyecto orientado a portafolio profesional y entrevistas técnicas.
-
-
 👤 Autor: Luis Castro Bernales
 
 Proyecto desarrollado como ejercicio profesional de Business Intelligence & Data Analytics.
